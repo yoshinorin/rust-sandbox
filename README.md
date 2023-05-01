@@ -1,3 +1,11 @@
-> EN: https://doc.rust-lang.org/book/
+> - EN:
+>    - doc: https://doc.rust-lang.org/book/
+>    - repo: https://github.com/rust-lang/book
 >
-> JA: https://doc.rust-jp.rs/book-ja/
+> - JA:
+>    - doc: https://doc.rust-jp.rs/book-ja/
+>    - repo: https://github.com/rust-lang-ja/book-ja
+
+## Installer
+
+> https://www.rust-lang.org/tools/install
