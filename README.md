@@ -9,3 +9,11 @@
 ## Installer
 
 > https://www.rust-lang.org/tools/install
+
+## Cargo
+
+```
+$ cargo build
+$ cargo run
+$ cargo update
+```
