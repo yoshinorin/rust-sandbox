@@ -16,4 +16,5 @@
 $ cargo build
 $ cargo run
 $ cargo update
+$ cargo new --lib <libName>
 ```
