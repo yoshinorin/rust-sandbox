@@ -6,4 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+# サンプルコードで使用している Struct が 0.27 で deprecated になっているので 0.27 未満を使用
 nix = "0.26.0"
